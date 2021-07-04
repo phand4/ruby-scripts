@@ -1,2 +1,2 @@
 # ruby-scripts
-Ruby code
+Repository created for all ruby scripts, tests and projects.
